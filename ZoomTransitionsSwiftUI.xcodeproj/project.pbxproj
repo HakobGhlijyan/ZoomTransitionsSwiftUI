@@ -6,7 +6,22 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		34DC85232D3E771A002AC194 /* Video2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 34DC851D2D3E7718002AC194 /* Video2.mp4 */; };
+		34DC85242D3E771A002AC194 /* Video1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 34DC851E2D3E7719002AC194 /* Video1.mp4 */; };
+		34DC85252D3E771A002AC194 /* Video3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 34DC851F2D3E7719002AC194 /* Video3.mp4 */; };
+		34DC85262D3E771A002AC194 /* Video4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 34DC85202D3E7719002AC194 /* Video4.mp4 */; };
+		34DC85272D3E771A002AC194 /* Video5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 34DC85212D3E771A002AC194 /* Video5.mp4 */; };
+		34DC85282D3E771A002AC194 /* Video6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 34DC85222D3E771A002AC194 /* Video6.mp4 */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		34DC851D2D3E7718002AC194 /* Video2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Video2.mp4; sourceTree = "<group>"; };
+		34DC851E2D3E7719002AC194 /* Video1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Video1.mp4; sourceTree = "<group>"; };
+		34DC851F2D3E7719002AC194 /* Video3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Video3.mp4; sourceTree = "<group>"; };
+		34DC85202D3E7719002AC194 /* Video4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Video4.mp4; sourceTree = "<group>"; };
+		34DC85212D3E771A002AC194 /* Video5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Video5.mp4; sourceTree = "<group>"; };
+		34DC85222D3E771A002AC194 /* Video6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Video6.mp4; sourceTree = "<group>"; };
 		34EB6C1A2D3C3E02008EBA95 /* ZoomTransitionsSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZoomTransitionsSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +47,12 @@
 		34EB6C112D3C3E02008EBA95 = {
 			isa = PBXGroup;
 			children = (
+				34DC851E2D3E7719002AC194 /* Video1.mp4 */,
+				34DC851D2D3E7718002AC194 /* Video2.mp4 */,
+				34DC851F2D3E7719002AC194 /* Video3.mp4 */,
+				34DC85202D3E7719002AC194 /* Video4.mp4 */,
+				34DC85212D3E771A002AC194 /* Video5.mp4 */,
+				34DC85222D3E771A002AC194 /* Video6.mp4 */,
 				34EB6C1C2D3C3E02008EBA95 /* ZoomTransitionsSwiftUI */,
 				34EB6C1B2D3C3E02008EBA95 /* Products */,
 			);
@@ -109,6 +130,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34DC85232D3E771A002AC194 /* Video2.mp4 in Resources */,
+				34DC85242D3E771A002AC194 /* Video1.mp4 in Resources */,
+				34DC85252D3E771A002AC194 /* Video3.mp4 in Resources */,
+				34DC85262D3E771A002AC194 /* Video4.mp4 in Resources */,
+				34DC85272D3E771A002AC194 /* Video5.mp4 in Resources */,
+				34DC85282D3E771A002AC194 /* Video6.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
