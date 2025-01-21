@@ -13,7 +13,6 @@ struct Video: Identifiable, Hashable {
     var thumbnail: UIImage?
 }
 
-//Sample Videos
 let files = [
     URL(filePath: Bundle.main.path(forResource: "Video1", ofType: "mp4") ?? ""),
     // Video https://www.pexels.com/video/sunset-over-sea-and-city-11359609/
